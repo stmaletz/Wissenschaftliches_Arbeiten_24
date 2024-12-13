@@ -2,4 +2,4 @@
 Testrepository für wissenschaftliches Arbeiten
 
 ## 2. Überschrift
-$\frac[1}{2}$
+$\frac{1}{2}$
